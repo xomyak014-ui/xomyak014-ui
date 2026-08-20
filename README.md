@@ -1,47 +1,58 @@
 <div align="center">
+  <img src="assets/emblem.png" width="168" alt="PHOENIX" />
 
-# ХоМыЧ
+  <h1>ХОМЫЧ</h1>
 
-**Developer · SCUM Dedicated Server**
+  <p>
+    <strong>FOUNDER</strong><br />
+    PHOENIX · SCUM Dedicated Server
+  </p>
 
-Инструменты, лаунчеры и инфраструктура  
-для dedicated-серверов **SCUM**.
-
-`Windows` · `Python` · `Server Ops` · `Mods`
-
+  <p>
+    <code>LAUNCHER</code>
+    &nbsp;·&nbsp;
+    <code>WINDOWS</code>
+    &nbsp;·&nbsp;
+    <code>SERVER OPS</code>
+  </p>
 </div>
 
 ---
 
-## Фокус
+**PHOENIX** — программный контур управления dedicated-сервером SCUM.  
+Спроектирован как рабочий инструмент оператора: запуск, контроль, обновление.
 
-Разработка под экосистему SCUM: управление dedicated-сервером, клиентский запуск, каталог модов, обновления и сопровождение.
+Основатель и единственный автор линейки.
 
-Не витрина. Рабочие репозитории под конкретные задачи.
+## Продукт
 
-## Проекты
-
-| Репозиторий | Назначение |
+| | |
 |---|---|
-| [phoenix-launcher-releases](https://github.com/xomyak014-ui/phoenix-launcher-releases) | **PHOENIX** — менеджер SCUM Dedicated Server для Windows. Сборки и автообновление. |
+| **PHOENIX Launcher** | Менеджер SCUM Dedicated Server для Windows. Официальные сборки и канал автообновления. |
+| Релизы | [phoenix-launcher-releases](https://github.com/xomyak014-ui/phoenix-launcher-releases) |
 
-## Стек
+## Принципы
+
+```
+Один продукт — одна задача
+Сборки публичные, исходный контур закрыт
+Без витрины. Только то, что работает на сервере
+```
+
+## Контур
 
 ```
 SCUM Dedicated Server
-Windows launchers
-Python · GitHub Releases
-Mod catalog · client install
+Windows launcher
+Release pipeline
+Operator tooling
 ```
-
-## Контакты
-
-GitHub: [xomyak014-ui](https://github.com/xomyak014-ui)
 
 ---
 
 <div align="center">
 
-© 2026 ХоМыЧ · SCUM
+PHOENIX<br />
+© 2026 ХоМыЧ · Founder
 
 </div>
