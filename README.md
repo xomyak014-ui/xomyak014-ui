@@ -3,9 +3,9 @@
 
   # ХоМыЧ
 
-  ### Разработчик проекта «Остров Судьбы»
+  ### Разработчик PHOENIX Launcher
 
-  **Автор PHOENIX Launcher — платформы управления SCUM Dedicated Server**
+  **Платформа управления SCUM Dedicated Server**
 
   <a href="https://github.com/xomyak014-ui/phoenix-launcher-releases/releases/latest"><img src="https://img.shields.io/badge/PHOENIX_LAUNCHER-WINDOWS_·_SCUM-171717?style=for-the-badge&logo=windows&logoColor=white" alt="PHOENIX Launcher" /></a>
 </div>
@@ -14,7 +14,7 @@
 
 ## PHOENIX Launcher
 
-**PHOENIX Launcher** — рабочий инструмент для администрирования SCUM Dedicated Server на Windows. Он создан для проекта «Остров Судьбы» и объединяет ежедневные серверные задачи в одном приложении.
+**PHOENIX Launcher** — рабочий инструмент для администрирования SCUM Dedicated Server на Windows. Лаунчер объединяет ежедневные серверные задачи в одном приложении.
 
 ```text
 Запуск и контроль сервера
@@ -29,5 +29,5 @@
 ---
 
 <div align="center">
-  <sub>«Остров Судьбы» · PHOENIX © 2026 ХоМыЧ</sub>
+  <sub>PHOENIX © 2026 ХоМыЧ · Developer</sub>
 </div>
