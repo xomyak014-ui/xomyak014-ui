@@ -1,58 +1,45 @@
 <div align="center">
-  <img src="assets/emblem.png" width="168" alt="PHOENIX" />
+  <img src="assets/emblem.png" width="148" alt="PHOENIX" />
 
-  <h1>ХОМЫЧ</h1>
+  # ХоМыЧ
 
-  <p>
-    <strong>FOUNDER</strong><br />
-    PHOENIX · SCUM Dedicated Server
-  </p>
+  **Founder & Developer of PHOENIX Launcher**
 
-  <p>
-    <code>LAUNCHER</code>
-    &nbsp;·&nbsp;
-    <code>WINDOWS</code>
-    &nbsp;·&nbsp;
-    <code>SERVER OPS</code>
-  </p>
+  <a href="https://github.com/xomyak014-ui/phoenix-launcher-releases"><img src="https://img.shields.io/badge/PHOENIX_LAUNCHER-SCUM_DEDICATED_SERVER-171717?style=for-the-badge&logo=windows&logoColor=white" alt="PHOENIX Launcher" /></a>
+  <a href="https://github.com/xomyak014-ui/ostrov-sudby-mods"><img src="https://img.shields.io/badge/OSTROV_SUDBY-MODS-171717?style=for-the-badge&logo=github&logoColor=white" alt="Ostrov Sudby Mods" /></a>
 </div>
 
 ---
 
-**PHOENIX** — программный контур управления dedicated-сервером SCUM.  
-Спроектирован как рабочий инструмент оператора: запуск, контроль, обновление.
+I build tools for managing **SCUM Dedicated Server** on Windows: server control, automation, operator tooling, updates and a curated mod catalog for the **Ostrov Sudby** project.
 
-Основатель и единственный автор линейки.
+## PHOENIX Launcher
 
-## Продукт
+<a href="https://github.com/xomyak014-ui/phoenix-launcher-releases/releases/latest"><img align="right" src="assets/emblem.png" width="96" alt="PHOENIX emblem" /></a>
 
-| | |
-|---|---|
-| **PHOENIX Launcher** | Менеджер SCUM Dedicated Server для Windows. Официальные сборки и канал автообновления. |
-| Релизы | [phoenix-launcher-releases](https://github.com/xomyak014-ui/phoenix-launcher-releases) |
+The primary project is **PHOENIX Launcher** — a desktop control center for SCUM server operators.
 
-## Принципы
+- Start, stop and monitor a dedicated server
+- Manage server configuration, updates and backups
+- Operate gameplay modules and scheduled server actions
+- Deliver curated mods through the launcher
 
-```
-Один продукт — одна задача
-Сборки публичные, исходный контур закрыт
-Без витрины. Только то, что работает на сервере
-```
+**[Download the latest release →](https://github.com/xomyak014-ui/phoenix-launcher-releases/releases/latest)**
 
-## Контур
+## Projects
 
-```
-SCUM Dedicated Server
-Windows launcher
-Release pipeline
-Operator tooling
-```
+| Project | Purpose |
+| --- | --- |
+| [PHOENIX Launcher Releases](https://github.com/xomyak014-ui/phoenix-launcher-releases) | Official Windows builds and automatic updates |
+| [Ostrov Sudby Mods](https://github.com/xomyak014-ui/ostrov-sudby-mods) | Curated SCUM mod catalog for the launcher |
+| [Ostrov Sudby Patch](https://github.com/xomyak014-ui/ostrov-sudby-patch) | Server patch distribution |
+
+## Focus
+
+`Windows` · `SCUM Dedicated Server` · `Node.js` · `JavaScript` · `Automation` · `Server Operations`
 
 ---
 
 <div align="center">
-
-PHOENIX<br />
-© 2026 ХоМыЧ · Founder
-
+  <sub>PHOENIX © 2026 ХоМыЧ</sub>
 </div>
